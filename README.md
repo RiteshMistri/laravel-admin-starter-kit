@@ -327,6 +327,7 @@ This project is open-sourced software licensed under the [MIT License](LICENSE).
 
 **Ritesh Mistri** — Laravel Developer passionate about building clean, scalable, and developer-friendly web applications.
 
+- 🌐 Website: [riteshmistri.site](https://riteshmistri.site/)
 - 🔗 LinkedIn: [linkedin.com/in/ritesh-mistri777](https://www.linkedin.com/in/ritesh-mistri777/)
 - 💻 GitHub: [github.com/RiteshMistri](https://github.com/RiteshMistri)
 
