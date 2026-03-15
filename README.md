@@ -333,4 +333,4 @@ This project is open-sourced software licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ for the Laravel community by <a href="https://www.linkedin.com/in/ritesh-mistri777/">Ritesh Mistri</a></p>
+<p align="center">Built to help developers save time — by <a href="https://riteshmistri.site/">Ritesh Mistri</a></p>
